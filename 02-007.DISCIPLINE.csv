@@ -1,0 +1,34 @@
+ID,NAME,DESCRIPTION,SOURCE_BOOK_ID,PAGE_NUMBER,VISIBLE
+1,Auspex,Supernatural senses,2,134,Y
+2,Celerity,Supernatural speed and dexterity,2,142,Y
+3,Potence,Supernatural strength,2,192,Y
+4,Presence,Presence,2,193,Y
+5,Thaumaturgy,Blood magic,2,212,Y
+6,Animalism,Power over wild creatures,2,128,Y
+7,Chimerstry,Illusions,2,144,Y
+8,Dementation,Spreading insanity,2,147,Y
+9,Dominate,Enforcing your will,2,151,Y
+10,Fortitude,Supernatural stamina,2,158,Y
+11,Necromancy,Magic over the dead,2,159,Y
+12,Obfuscate,Hiding in shadows,2,184,Y
+13,Obtenebration,Control the shadows,2,188,Y
+14,Protean,Shapeshifting,2,199,Y
+15,Quietus,Powers of assassination,2,203,Y
+16,Serpentis,Snake power,2,209,Y
+17,Vicissitude,Fleshcrafting,2,241,Y
+18,Thanatosis,Death and decay,2,410,Y
+19,Assamite Sorcery,Assamite version of Thaumaturgy,2,440,Y
+20,Bardo,Attainment of a state of mystical unconsciousness,2,442,Y
+21,Daimoinon,The black arts of the Baali,2,444,Y
+22,Flight,Gargoyle discipline of flight,2,447,Y
+23,Koldunic Sorcery,The magic of the Tzimisce,2,448,Y
+24,Melpominee,Power through the voice,2,453,Y
+25,Mytherceria,Fae-like powers,2,455,Y
+26,Obeah,Healing power,2,457,Y
+27,Sanguinus,"Combine, lend and coordinate powers",2,463,Y
+28,Spiritus,Spiritual connection to the world,2,466,Y
+29,Temporis,Power over time,2,467,Y
+30,Valeren,Third eye,2,474,Y
+31,Visceratika,Affinity for stone,2,475,Y
+32,Abyss Mysticism,Version of Obtenebration with rituals,5,37,Y
+33,Settite Sorcery,Settite magics,5,36,Y

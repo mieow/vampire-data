@@ -1,0 +1,12 @@
+ID,NAME,DESCRIPTION
+1,Stat,Character Statistic
+2,Attribute,Attribute
+3,Virtue,Virtue
+4,Willpower,Willpower
+5,Skill,Abilities
+6,Background,Background
+7,ClanDiscipline,Costs for Clan Disciplines
+8,NonClan,Non-Clan Discipline
+9,Caitiff,Caitiff Discipline
+10,RoadOrPath,Paths of Enlightenment
+11,Path,Paths of Magik
