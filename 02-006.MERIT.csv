@@ -164,10 +164,10 @@ Haunted,An angry spirit haunts you,-3,Supernatural,-3,0,N,2,495,Y,N,0,Who haunts
 Repelled by Crosses,"You must flee from crosses, even when they are not backed by",-3,Supernatural,-3,0,N,2,495,Y,N,0,
 Eerie Presence,You make mortals nervous as they are instinctively aware tha,-2,Supernatural,-2,0,N,2,495,Y,N,0,
 Lord of the Flies,Flies follow you around,-2,Supernatural,-2,0,N,2,495,Y,N,0,
-Peacemaker,You often get asked to mediate disputes,2,Social,2,0,N,4,102,Y,N,0,
-Prized Patch,You belong to an Anarch gang with an impressive reputation,2,Social,2,0,N,4,102,Y,N,0,What is the gang called and what are they known for?
-Soapbox,You have a special forum that allows you to spread your opinions widely,3,Social,3,0,N,4,102,Y,N,0,
-Sugar Daddy,You have a personal relationship with a high ranking member of a different sect,3,Social,3,0,N,4,102,Y,N,0,
-Expiration Date,You are wanted in several domains for minor crimes. It's only a matter of time…,-2,Social,-2,0,N,4,102,Y,N,0,
-Black Sheep,You belong to a prestigious lineage that is considered the paragon of another sect,-5,Social,-5,0,N,4,102,Y,N,0,
-Mark of Caine,Old Sabbat: Mark gives equivalent of level 1 True Faith in Caine,4,Supernatural,4,0,N,5,41,Y,N,0,
+Peacemaker,You often get asked to mediate disputes,2,Social,2,0,N,3,102,Y,N,0,
+Prized Patch,You belong to an Anarch gang with an impressive reputation,2,Social,2,0,N,3,102,Y,N,0,What is the gang called and what are they known for?
+Soapbox,You have a special forum that allows you to spread your opinions widely,3,Social,3,0,N,3,102,Y,N,0,
+Sugar Daddy,You have a personal relationship with a high ranking member of a different sect,3,Social,3,0,N,3,102,Y,N,0,
+Expiration Date,You are wanted in several domains for minor crimes. It's only a matter of time…,-2,Social,-2,0,N,3,102,Y,N,0,
+Black Sheep,You belong to a prestigious lineage that is considered the paragon of another sect,-5,Social,-5,0,N,3,102,Y,N,0,
+Mark of Caine,Old Sabbat: Mark gives equivalent of level 1 True Faith in Caine,4,Supernatural,4,0,N,4,41,Y,N,0,
