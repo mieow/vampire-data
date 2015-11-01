@@ -9,10 +9,10 @@ Mentor,Some important kindred which mentors you,Background,5,N,N,Y,
 Herd,Save vessels to feed from,Background,5,N,N,Y,
 Influence,Your control over a mortal sphere ,Background,5,N,N,Y,
 Allies,Important mortal working with you on some issues,Background,5,N,N,Y,
-Anarch Status,Your reputation with the Anarchs,Sect: Anarch,5,N,N,Y,
+Anarch Status,Your reputation with the Anarchs,Sect: Anarch,5,N,N,N,
 Domain,Physical Territory under your control,Background,5,N,N,Y,
 Generation,Steps towards Caine,Background,5,N,N,Y,
 Alternate Identity,Maintain an alternate persona,Background,5,N,N,Y,
-Armoury,You have a functional armoury,Sect: Anarch,5,N,N,Y,
-Communal Haven,A secure location controlled by a coterie,Sect: Anarch,5,N,N,Y,Describe the haven
-Blasphemous Shrine,Empower Akhu rituals,Settite Sorcery,5,N,N,Y,Describe the shrine and the connection the desecrated corpse has to Set
+Armoury,You have a functional armoury,Sect: Anarch,5,N,N,N,
+Communal Haven,A secure location controlled by a coterie,Sect: Anarch,5,N,N,N,Describe the haven
+Blasphemous Shrine,Empower Akhu rituals,Settite Sorcery,5,N,N,N,Describe the shrine and the connection the desecrated corpse has to Set
