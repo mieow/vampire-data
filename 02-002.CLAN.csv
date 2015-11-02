@@ -1,16 +1,16 @@
 ID,NAME,DESCRIPTION,ICON_LINK,CLAN_PAGE_LINK,CLAN_FLAW,CLAN_COST_MODEL_ID,NONCLAN_COST_MODEL_ID,VISIBLE,WORDPRESS_ROLE
-1,Nosferatu,Nosferatu,,,Horribly ugly,3,8,Y,subscriber
-2,Tremere,Tremere,,,Only 2 steps to be bloodbonded,3,8,Y,subscriber
-3,Malkavian,Malkavian,,,Insane,3,8,Y,subscriber
-4,Brujah,Brujah,,,Frenzies easily,3,8,Y,subscriber
-5,Ventrue,Ventrue,,,Rarified tastes,3,8,Y,subscriber
-6,Toreador,Toreador,,,Entranced by beauty,3,8,Y,subscriber
-7,Gangrel,Gangrel,,,Animal features,3,8,Y,subscriber
-8,Giovanni,Giovanni,,,The kiss causes pain,3,8,Y,subscriber
-9,Lasombra,Lasombra,,,No reflection,3,8,Y,subscriber
-10,Caitiff,Caitiff,,,Clanless,9,9,Y,subscriber
-11,Assamite,Assamite,,,Cannot drink kindred blood,3,8,Y,subscriber
-12,Followers of Set,Settites,,,Sensitive to bright light,3,8,Y,subscriber
-13,Ravnos,Ravnos,,,Compulsive behaviour,3,8,Y,subscriber
-14,Tzimisce,Tzimisce,,,Need to sleep on home soil,3,8,Y,subscriber
-15,Samedi,Samedi,,,Horribly ugly,3,8,Y,subscriber
+1,Nosferatu,Nosferatu,,,Horribly ugly,7,8,Y,subscriber
+2,Tremere,Tremere,,,Only 2 steps to be bloodbonded,7,8,Y,subscriber
+3,Malkavian,Malkavian,,,Insane,7,8,Y,subscriber
+4,Brujah,Brujah,,,Frenzies easily,7,8,Y,subscriber
+5,Ventrue,Ventrue,,,Rarified tastes,7,8,Y,subscriber
+6,Toreador,Toreador,,,Entranced by beauty,7,8,Y,subscriber
+7,Gangrel,Gangrel,,,Animal features,7,8,Y,subscriber
+8,Giovanni,Giovanni,,,The kiss causes pain,7,8,Y,subscriber
+9,Lasombra,Lasombra,,,No reflection,7,8,Y,subscriber
+10,Caitiff,Caitiff,,,Clanless,7,9,Y,subscriber
+11,Assamite,Assamite,,,Cannot drink kindred blood,7,8,Y,subscriber
+12,Followers of Set,Settites,,,Sensitive to bright light,7,8,Y,subscriber
+13,Ravnos,Ravnos,,,Compulsive behaviour,7,8,Y,subscriber
+14,Tzimisce,Tzimisce,,,Need to sleep on home soil,7,8,Y,subscriber
+15,Samedi,Samedi,,,Horribly ugly,7,8,Y,subscriber

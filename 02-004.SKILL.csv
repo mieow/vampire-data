@@ -1,31 +1,31 @@
 NAME,DESCRIPTION,SKILL_TYPE_ID,COST_MODEL_ID,MULTIPLE,SPECIALISATION_AT,VISIBLE
-Academics,How good your education was,4,3,N,4,Y
-Computer,"Hacking, cracking and running a website",4,3,N,4,Y
-Finance,Looking after the money and following the trail,4,3,N,4,Y
-Investigation,Following clues and finding out information,4,3,N,4,Y
-Law,Knowing the laws and the ways around them,4,3,N,4,Y
-Medicine,Looking after the injured and knowing when you fed too much,4,3,N,4,Y
-Occult,Knowledge of the occult,4,3,N,4,Y
-Politics,Knowing politics and local politicians,4,3,N,4,Y
-Science,Chemistry/Physics/Biology,4,3,N,4,Y
-Technology,Knowledge of electronic systems,4,3,N,4,Y
-Animal Ken,Being good with animals,3,3,N,4,Y
-Crafts,Being good at making things,3,3,N,4,Y
-Drive,Driving vehicles,3,3,N,4,Y
-Etiquette,Knowing your way around society,3,3,N,4,Y
-Firearms,Shooting guns,3,3,N,4,Y
-Larceny,"Thieving, hotwiring and slight of hand",3,3,N,4,Y
-Melee,Swords and knives,3,3,N,4,Y
-Performance,Singing/dancing/etc,3,3,N,4,Y
-Stealth,Sneaking around and hiding,3,3,N,4,Y
-Survival,Surviving in the wild,3,3,N,4,Y
-Alertness,How alert you are,2,3,N,4,Y
-Athletics,Running/jumping/climbing trees,2,3,N,4,Y
-Awareness,How aware you are of the supernatural,2,3,N,4,Y
-Brawl,Hand to hand combat,2,3,N,4,Y
-Empathy,Understanding how others feel,2,3,N,4,Y
-Expression,Getting your point across,2,3,N,1,Y
-Intimidation,Scaring people into submission,2,3,N,4,Y
-Leadership,Getting others to follow your lead,2,3,N,4,Y
-Streetwise,Knowing your way around the streets,2,3,N,4,Y
-Subterfuge,Lying and knowing when you are being deceived,2,3,N,4,Y
+Academics,How good your education was,4,5,N,4,Y
+Computer,"Hacking, cracking and running a website",4,5,N,4,Y
+Finance,Looking after the money and following the trail,4,5,N,4,Y
+Investigation,Following clues and finding out information,4,5,N,4,Y
+Law,Knowing the laws and the ways around them,4,5,N,4,Y
+Medicine,Looking after the injured and knowing when you fed too much,4,5,N,4,Y
+Occult,Knowledge of the occult,4,5,N,4,Y
+Politics,Knowing politics and local politicians,4,5,N,4,Y
+Science,Chemistry/Physics/Biology,4,5,N,4,Y
+Technology,Knowledge of electronic systems,4,5,N,4,Y
+Animal Ken,Being good with animals,3,5,N,4,Y
+Crafts,Being good at making things,3,5,N,4,Y
+Drive,Driving vehicles,3,5,N,4,Y
+Etiquette,Knowing your way around society,3,5,N,4,Y
+Firearms,Shooting guns,3,5,N,4,Y
+Larceny,"Thieving, hotwiring and slight of hand",3,5,N,4,Y
+Melee,Swords and knives,3,5,N,4,Y
+Performance,Singing/dancing/etc,3,5,N,4,Y
+Stealth,Sneaking around and hiding,3,5,N,4,Y
+Survival,Surviving in the wild,3,5,N,4,Y
+Alertness,How alert you are,2,5,N,4,Y
+Athletics,Running/jumping/climbing trees,2,5,N,4,Y
+Awareness,How aware you are of the supernatural,2,5,N,4,Y
+Brawl,Hand to hand combat,2,5,N,4,Y
+Empathy,Understanding how others feel,2,5,N,4,Y
+Expression,Getting your point across,2,5,N,1,Y
+Intimidation,Scaring people into submission,2,5,N,4,Y
+Leadership,Getting others to follow your lead,2,5,N,4,Y
+Streetwise,Knowing your way around the streets,2,5,N,4,Y
+Subterfuge,Lying and knowing when you are being deceived,2,5,N,4,Y

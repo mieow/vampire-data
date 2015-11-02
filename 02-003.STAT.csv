@@ -8,9 +8,9 @@ ID,NAME,DESCRIPTION,GROUPING,ORDERING,COST_MODEL_ID,SPECIALISATION_AT
 7,Perception,How much your character notices,Mental,7,2,4
 8,Intelligence,How smart your character is,Mental,8,2,4
 9,Wits,How quick thinking your character is,Mental,9,2,4
-10,Conscience,How caring you are,Virtue,10,7,0
-11,Conviction,The strength of your convictions,Virtue,10,7,0
-12,Self Control,How well you keep yourself in check,Virtue,11,7,0
-13,Instinct,How well you ride the beast,Virtue,11,7,0
-14,Courage,How brave you are,Virtue,12,7,0
+10,Conscience,How caring you are,Virtue,10,3,0
+11,Conviction,The strength of your convictions,Virtue,10,3,0
+12,Self Control,How well you keep yourself in check,Virtue,11,3,0
+13,Instinct,How well you ride the beast,Virtue,11,3,0
+14,Courage,How brave you are,Virtue,12,3,0
 15,Willpower,How strong your force of will is,Willpower,13,4,0
