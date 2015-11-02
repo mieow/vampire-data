@@ -8,7 +8,7 @@ ID,NAME,DESCRIPTION,ICON_LINK,CLAN_PAGE_LINK,CLAN_FLAW,CLAN_COST_MODEL_ID,NONCLA
 7,Gangrel,Gangrel,,,Animal features,7,8,Y,subscriber
 8,Giovanni,Giovanni,,,The kiss causes pain,7,8,Y,subscriber
 9,Lasombra,Lasombra,,,No reflection,7,8,Y,subscriber
-10,Caitiff,Caitiff,,,Clanless,7,9,Y,subscriber
+10,Caitiff,Caitiff,,,Clanless,9,9,Y,subscriber
 11,Assamite,Assamite,,,Cannot drink kindred blood,7,8,Y,subscriber
 12,Followers of Set,Settites,,,Sensitive to bright light,7,8,Y,subscriber
 13,Ravnos,Ravnos,,,Compulsive behaviour,7,8,Y,subscriber
