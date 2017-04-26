@@ -8,7 +8,6 @@ ID,NAME,DESCRIPTION,DISCIPLINE_ID,COST_MODEL_ID,SOURCE_BOOK_ID,PAGE_NUMBER,VISIB
 7,The Path of Mars,Effect war and violence,5,11,2,224,Y
 8,Path of Technomancy,Control of electronic devices,5,11,2,224,Y
 9,Father's Vengeance,Based on teachings of the book of Nod,5,11,2,226,Y
-10,Thaumaturgical Countermagic,Resist the effects of Thaumaturgy,5,11,2,228,Y
 11,Weather Control,Command over the weather,5,11,2,228,Y
 12,Movement of the Mind,Telekinesis,5,11,2,220,Y
 13,Path of Blood,Default Thaumaturgy Path,5,11,2,213,Y
